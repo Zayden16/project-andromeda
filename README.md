@@ -1,2 +1,2 @@
-# m306-gp
+# Project Andromeda
 M306 Group Project
